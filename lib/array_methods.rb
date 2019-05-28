@@ -1,6 +1,6 @@
 def using_include(array, element)
-array.include?("wow")
-array.include?("Tardis")
+using_include.include?("wow")
+using_include.include?("Tardis")
 
 end
 
