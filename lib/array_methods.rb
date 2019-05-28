@@ -4,7 +4,7 @@ end
 
 def using_sort(array)
 array.last
-array.first
+
 end
 
 def using_reverse(array)
